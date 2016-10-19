@@ -1,0 +1,74 @@
+.header-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  min-height: 65px;
+  width: 100%;
+  background-color: #30E345;
+  box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.22);
+  z-index: 100;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+.header-logo {
+  order: 1;
+  flex: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+#srm_logo {
+  display: flex;
+  flex: 1;
+  order: 1;
+}
+
+#srm_title {
+  display: flex;
+  flex: 1;
+  order: 2;
+  opacity: 1;
+}
+
+.header-aside {
+  display: flex;
+  flex: 0;
+  flex-direction: row;
+  order: 2;
+  align-items: stretch;
+}
+
+.header-aside-item {
+  flex: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-decoration: none;
+}
+
+.new-sponsor-button-wrapper div {
+  color: white;
+  white-space: nowrap;
+  font-weight: bold;
+  margin-right: 23px;
+}
+
+.user-icon-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 !important;
+  margin: 0 10px;
+}
+
+.user-icon {
+  width: 45px;
+  height: 45px;
+  border-radius: 30%;
+  background-color: white;
+  box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.22);
+  overflow: hidden;
+}

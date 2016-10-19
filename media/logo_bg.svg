@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.344444mm"
+   height="18.344444mm"
+   viewBox="0 0 64.999999 64.999999"
+   id="svg4340"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon_bg.svg">
+  <defs
+     id="defs4342" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="21.743476"
+     inkscape:cy="29.172563"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4345">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-365.67523,-256.362)">
+    <path
+       style="opacity:1;fill:#30e345;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 365.67523,256.362 0,65.00018 27.34953,0 0,0.0922 37.65047,0 0,-65.09235 -37.65047,0 -27.34953,0 z"
+       id="rect4337"
+       inkscape:export-filename="C:\Users\David\OneDrive\For Keeps\sponsor relationship manager\srm_logo.png"
+       inkscape:export-xdpi="8.6999998"
+       inkscape:export-ydpi="8.6999998"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 398.17518,264.73513 -5.00648,12.08652 -12.08652,-5.00647 5.00647,12.08653 -12.08652,5.00646 12.08652,5.00647 -5.00647,12.08652 12.08672,-5.00646 5.00628,12.08652 5.00646,-12.08652 12.08652,5.00646 -5.00646,-12.08652 12.08651,-5.00647 -12.08651,-5.00646 5.00646,-12.08653 -12.08652,5.00647 -5.00646,-12.08652 z"
+       id="path4321"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\David\OneDrive\For Keeps\sponsor relationship manager\srm_logo.png"
+       inkscape:export-xdpi="8.6999998"
+       inkscape:export-ydpi="8.6999998" />
+    <g
+       id="g4339"
+       transform="matrix(0.09669218,0,0,0.09669218,444.5874,242.40565)"
+       style="fill:#00d900;fill-opacity:1"
+       inkscape:export-filename="C:\Users\David\OneDrive\For Keeps\sponsor relationship manager\srm_logo.png"
+       inkscape:export-xdpi="8.6999998"
+       inkscape:export-ydpi="8.6999998">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4341"
+         d="m -730.00002,480.93365 250.00004,0 0,250.00004 176.77667,-426.77674 z"
+         style="opacity:1;fill:#00d900;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#00a600;fill-opacity:1;stroke:none;stroke-width:25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -480,480.93367 -303.22331,304.15695 -479.99998,730.93369"
+         id="path4343"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
